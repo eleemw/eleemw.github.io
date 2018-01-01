@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: ...emw...
 header-img: img/home-bg.png
 email: ericahpa@gmail.com
 copyright_name: eleemw
 description: > # this means to ignore newlines until "baseurl:"
-  
+  dwell in possibilities
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  eleemw
