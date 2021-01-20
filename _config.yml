@@ -1,15 +1,14 @@
 # Site settings
+author: Erica Murdock-Waters
 title: ...emw...
 header-img: img/home-bg.png
 email: ericahpa@gmail.com
-copyright_name: eleemw
+copyright_name: Erica Murdock-Waters
 description: > # this means to ignore newlines until "baseurl:"
   dwell in possibilities
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  eleemw
-learn_profile: eleemw
-email_username: ericahpa@gmail.com
 
 # Build settings
 markdown: kramdown
